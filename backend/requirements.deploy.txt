@@ -1,0 +1,13 @@
+# Packages the server image installs. Your local venv has the same ones.
+fastapi
+uvicorn
+python-dotenv
+pydantic
+numpy
+groq
+pypdf
+fastembed
+faiss-cpu
+livekit-agents
+livekit-plugins-groq
+livekit-plugins-silero
