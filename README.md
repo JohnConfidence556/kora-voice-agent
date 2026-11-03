@@ -4,12 +4,22 @@ Sign up, check your airtime and data, buy a plan, and talk to an assistant that 
 
 > **This is an independent portfolio project.** It is not affiliated with, endorsed by, or connected to MTN Nigeria. Plan information was collected from MTN Nigeria's public pages in October 2026 and may be out of date. Accounts, balances and payments are all simulated.
 
-**Live demo:** `<PASTE YOUR VERCEL URL>`
+**Live demo:** `<https://kora-voice-agent.vercel.app/>`
 **Demo login:** `demo@kora.app` / `demo1234` (or create your own account)
 
-<!-- Add 3 or 4 screenshots here: dashboard, chat, voice call -->
-<!-- ![Dashboard](docs/dashboard.png) -->
+## Screenshots
 
+### Landing Page
+![Landing page](docs/landing_page.png)
+
+### Dashboard 
+![Dashboard](docs/dashboard.png)
+
+### Chat Interface
+![Chat Interface](docs/chat.png)
+
+### Voice Call
+![Voice Call](docs/voice-call.png)
 ## What it does
 
 - **Self-service account.** Demo sign-up and sign-in, SIM status, airtime balance, data balance, active plan and transaction history.
