@@ -50,7 +50,7 @@ const HONEST = [
 ];
 
 const BUILT_WITH = [
-  "Next.js", "FastAPI", "SQLite", "LiveKit Agents", "Groq: Whisper, Llama, Orpheus", "FastEmbed and FAISS retrieval",
+  "Next.js", "FastAPI", "SQLite", "LiveKit Agents", "Groq: Whisper, Orpheus", "FastEmbed and FAISS retrieval", "Groq API(openai/gpt-oss-120b)", "AWS EC2 instance", 
 ];
 
 export default function Landing() {
